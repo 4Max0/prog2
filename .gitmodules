@@ -1,3 +1,6 @@
 [submodule "@submodules/prog2_ybel_gitquest"]
 	path = @submodules/prog2_ybel_gitquest
 	url = https://github.com/4Max0/prog2_ybel_gitquest
+[submodule "@submodules/prog2_project"]
+	path = @submodules/prog2_project
+	url = https://github.com/4Max0/prog2_project.git
