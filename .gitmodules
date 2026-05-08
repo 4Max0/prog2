@@ -4,3 +4,6 @@
 [submodule "@submodules/prog2_project"]
 	path = @submodules/prog2_project
 	url = https://github.com/4Max0/prog2_project.git
+[submodule "@submodules/prog2_ybel_catcafe"]
+	path = @submodules/prog2_ybel_catcafe
+	url = https://github.com/4Max0/prog2_ybel_catcafe.git
