@@ -7,3 +7,9 @@
 [submodule "@submodules/prog2_ybel_catcafe"]
 	path = @submodules/prog2_ybel_catcafe
 	url = https://github.com/4Max0/prog2_ybel_catcafe.git
+[submodule "@submodules/prog2_ybel_calculator"]
+	path = @submodules/prog2_ybel_calculator
+	url = https://github.com/4Max0/prog2_ybel_calculator.git
+[submodule "@submodules/prog2_ybel_locksnake"]
+	path = @submodules/prog2_ybel_locksnake
+	url = https://github.com/4Max0/prog2_ybel_locksnake.git
