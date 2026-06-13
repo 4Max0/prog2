@@ -16,3 +16,6 @@
 [submodule "@submodules/prog2_ybel_syntaxhighlighting"]
 	path = @submodules/prog2_ybel_syntaxhighlighting
 	url = https://github.com/4Max0/prog2_ybel_syntaxhighlighting.git
+[submodule "@submodules/prog2_ybel_cyclechronicles"]
+	path = @submodules/prog2_ybel_cyclechronicles
+	url = https://github.com/4Max0/prog2_ybel_cyclechronicles.git
