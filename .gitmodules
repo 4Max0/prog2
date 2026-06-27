@@ -19,3 +19,6 @@
 [submodule "@submodules/prog2_ybel_cyclechronicles"]
 	path = @submodules/prog2_ybel_cyclechronicles
 	url = https://github.com/4Max0/prog2_ybel_cyclechronicles.git
+[submodule "@submodules/prog2_zoo"]
+	path = @submodules/prog2_zoo
+	url = https://github.com/4Max0/prog2_zoo.git
